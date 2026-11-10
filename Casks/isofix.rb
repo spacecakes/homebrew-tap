@@ -1,6 +1,6 @@
 cask "isofix" do
-  version "1.0"
-  sha256 "dab71bb7a0b8b6205060368998c73578cd0506dbaef6ef5147d3d67055d7544d"
+  version "1.1"
+  sha256 "f16830f8b7c320676881594314450254cd39dc4b8851e9aafc6f890dff6a4607"
 
   url "https://github.com/spacecakes/isofix/releases/download/v#{version}/ISOFix.zip"
   name "ISOFix"
